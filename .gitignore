@@ -1,0 +1,13 @@
+/target/
+.classpath
+.idea/
+.settings/
+test-output/
+.project
+src/test/resources/download/
+**/debug.log
+**/desktop.ini
+**/gitignore
+*.log
+
+RestAssuredExample.iml
